@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemeOverlay.Material3.SearchBar" parent="">
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/on_surface_high</item>
+        <item name="colorOnSurfaceVariant">@color/primary_500</item>
+    </style>
+</resources>

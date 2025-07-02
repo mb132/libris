@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Primary brand colors -->
+    <color name="primary_200">#90A4AE</color>     <!-- Light blue grey -->
+    <color name="primary_500">#546E7A</color>     <!-- Blue grey -->
+    <color name="primary_700">#37474F</color>     <!-- Dark blue grey -->
+
+    <!-- Secondary accent colors -->
+    <color name="secondary_200">#C5CAE9</color>   <!-- Light indigo -->
+    <color name="secondary_500">#7986CB</color>   <!-- Indigo -->
+    <color name="secondary_700">#3949AB</color>   <!-- Dark indigo -->
+
+    <!-- Surface colors -->
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#121212</color>
+
+    <!-- Text colors -->
+    <color name="on_surface_high">#DE000000</color>     <!-- 87% black -->
+    <color name="on_surface_medium">#99000000</color>   <!-- 60% black -->
+    <color name="on_surface_disabled">#61000000</color> <!-- 38% black -->
+
+    <!-- Standard system colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

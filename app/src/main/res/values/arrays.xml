@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Italian</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Japanese</item>
+        <item>Chinese</item>
+        <item>Korean</item>
+        <item>Arabic</item>
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>Urdu</item>
+        <item>Swedish</item>
+        <item>Dutch</item>
+        <item>Greek</item>
+        <item>Turkish</item>
+        <item>Thai</item>
+        <item>Vietnamese</item>
+        <item>Polish</item>
+        <item>Czech</item>
+        <item>Finnish</item>
+        <item>Norwegian</item>
+        <item>Hebrew</item>
+        <item>Malay</item>
+        <item>Indonesian</item>
+        <item>Zulu</item>
+        <item>Swahili</item>
+    </string-array>
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>it</item>
+        <item>pt</item>
+        <item>ru</item>
+        <item>ja</item>
+        <item>zh</item>
+        <item>ko</item>
+        <item>ar</item>
+        <item>hi</item>
+        <item>bn</item>
+        <item>ur</item>
+        <item>sv</item>
+        <item>nl</item>
+        <item>el</item>
+        <item>tr</item>
+        <item>th</item>
+        <item>vi</item>
+        <item>pl</item>
+        <item>cs</item>
+        <item>fi</item>
+        <item>no</item>
+        <item>he</item>
+        <item>ms</item>
+        <item>id</item>
+        <item>zu</item>
+        <item>sw</item>
+    </string-array>
+
+    <string-array name="book_genres">
+        <item>Fiction</item>
+        <item>Non-Classifiable</item>
+        <item>Antiques &amp; Collectibles</item>
+        <item>Architecture</item>
+        <item>Art</item>
+        <item>Bibles</item>
+        <item>Biography &amp; Autobiography</item>
+        <item>Body, Mind &amp; Spirit</item>
+        <item>Business &amp; Economics</item>
+        <item>Comics &amp; Graphic Novels</item>
+        <item>Computers</item>
+        <item>Cooking</item>
+        <item>Crafts &amp; Hobbies</item>
+        <item>Design</item>
+        <item>Drama</item>
+        <item>Education</item>
+        <item>Family &amp; Relationships</item>
+        <item>Fiction</item>
+        <item>Foreign Language Study</item>
+        <item>Games &amp; Activities</item>
+        <item>Gardening</item>
+        <item>Health &amp; Fitness</item>
+        <item>History</item>
+        <item>House &amp; Home</item>
+        <item>Humor</item>
+        <item>Juvenile Fiction</item>
+        <item>Juvenile Nonfiction</item>
+        <item>Language Arts &amp; Disciplines</item>
+        <item>Law</item>
+        <item>Literary Collections</item>
+        <item>Literary Criticism</item>
+        <item>Mathematics</item>
+        <item>Medical</item>
+        <item>Music</item>
+        <item>Nature</item>
+        <item>Performing Arts</item>
+        <item>Pets</item>
+        <item>Philosophy</item>
+        <item>Photography</item>
+        <item>Poetry</item>
+        <item>Political Science</item>
+        <item>Psychology</item>
+        <item>Reference</item>
+        <item>Religion</item>
+        <item>Science</item>
+        <item>Self-Help</item>
+        <item>Social Science</item>
+        <item>Sports &amp; Recreation</item>
+        <item>Study Aids</item>
+        <item>Technology &amp; Engineering</item>
+        <item>Transportation</item>
+        <item>Travel</item>
+        <item>True Crime</item>
+        <item>Youth Adult Fiction</item>
+        <item>Youth Adult Nonfiction</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>System Default</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>system</item>
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <de.hs_kl.libris.ui.settings.AppInfoPreference
+        android:layout="@layout/preference_app_info"
+        app:iconSpaceReserved="false" />
+
+    <PreferenceCategory
+        android:title="Library"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="library_stats"
+            android:summary="View your library statistics"
+            android:title="Library Statistics"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="fill_library"
+            android:summary="Add sample books to your library"
+            android:title="Fill Library"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="clear_library"
+            android:summary="Remove all books from your library"
+            android:title="Clear Library"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Theme"
+        app:iconSpaceReserved="false">
+
+        <ListPreference
+            android:defaultValue="system"
+            android:entries="@array/theme_entries"
+            android:entryValues="@array/theme_values"
+            android:key="@string/theme_title"
+            android:summary="Choose your preferred theme"
+            android:title="App Theme"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="About"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="version"
+            android:summary="1.0.0"
+            android:title="Version"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
