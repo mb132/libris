@@ -125,4 +125,8 @@ app/
 │   └── settings/        # App settings
 └── util/                # Utility classes
 ```
+## Building and Running
 
+1. Clone the repository
+2. Open in Android Studio
+3. Build and run on the emulator or compatible Android device
